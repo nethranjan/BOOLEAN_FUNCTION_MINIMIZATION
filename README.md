@@ -50,3 +50,7 @@ Developed by: RegisterNumber:*/
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
+<img width="1597" height="849" alt="Screenshot 2025-10-07 184250" src="https://github.com/user-attachments/assets/7feb9991-701e-4567-b105-7d2b38ff71b1" />
+
+
+<img width="1900" height="329" alt="Screenshot 2025-10-07 184716" src="https://github.com/user-attachments/assets/c4411f29-a076-43e2-9286-efc8b7618194" />
